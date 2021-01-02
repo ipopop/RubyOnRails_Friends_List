@@ -18,7 +18,10 @@
 
 # rails db:migrate
 
-# rails g migration add_user_id_to_friends user_id:intege
-r:index
+# rails g migration add_user_id_to_friends user_id:integer:index
 
 # rails db:migrate
+
+# test users :
+# demo@demo.com | demodemo | id: 3
+# test@test.com | testtest | id: 4
