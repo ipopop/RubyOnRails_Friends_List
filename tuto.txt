@@ -1,2 +1,5 @@
 # rails g controller home index
 
+# rails s
+
+# rails routes
