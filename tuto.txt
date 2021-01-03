@@ -34,6 +34,12 @@
 # bundle config set without 'production'
 # bundle install
 
+# heroku login
+# heroku create
+# heroku git:remote -a ruby-on-rails-friends-list
+# git push heroku main
+# heroku run rails db:migrate
+
 
 # test users :
 # demo@demo.com | demodemo | id: 3

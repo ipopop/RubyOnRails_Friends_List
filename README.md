@@ -1,4 +1,8 @@
-# README
+# Ruby-on-Rails-Friends-List
+
+[My Live Version](https://ruby-on-rails-friends-list.herokuapp.com/)
+
+### From a Codemy.com [Tuto](https://youtu.be/fmyvWz5TUWg)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
