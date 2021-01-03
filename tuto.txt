@@ -26,6 +26,14 @@
 
 # rails db:migrate
 
+# bundle install
+
+# chmod a+x bin/render-build.sh
+
+# bundle install --without production
+# bundle config set without 'production'
+# bundle install
+
 
 # test users :
 # demo@demo.com | demodemo | id: 3
